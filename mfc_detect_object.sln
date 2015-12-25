@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mfc_detect_object", "mfc_detect_object\mfc_detect_object.vcxproj", "{46DCBFDB-EB7E-4040-ADC6-47B96D083453}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Itanium = Debug|Itanium
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Itanium = Release|Itanium
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46DCBFDB-EB7E-4040-ADC6-47B96D083453}.Debug|Itanium.ActiveCfg = Debug|Win32
+		{46DCBFDB-EB7E-4040-ADC6-47B96D083453}.Debug|Itanium.Build.0 = Debug|Win32
+		{46DCBFDB-EB7E-4040-ADC6-47B96D083453}.Debug|Win32.ActiveCfg = Debug|Win32
+		{46DCBFDB-EB7E-4040-ADC6-47B96D083453}.Debug|Win32.Build.0 = Debug|Win32
+		{46DCBFDB-EB7E-4040-ADC6-47B96D083453}.Debug|x64.ActiveCfg = Debug|x64
+		{46DCBFDB-EB7E-4040-ADC6-47B96D083453}.Debug|x64.Build.0 = Debug|x64
+		{46DCBFDB-EB7E-4040-ADC6-47B96D083453}.Release|Itanium.ActiveCfg = Release|Itanium
+		{46DCBFDB-EB7E-4040-ADC6-47B96D083453}.Release|Itanium.Build.0 = Release|Itanium
+		{46DCBFDB-EB7E-4040-ADC6-47B96D083453}.Release|Win32.ActiveCfg = Release|Win32
+		{46DCBFDB-EB7E-4040-ADC6-47B96D083453}.Release|Win32.Build.0 = Release|Win32
+		{46DCBFDB-EB7E-4040-ADC6-47B96D083453}.Release|x64.ActiveCfg = Release|x64
+		{46DCBFDB-EB7E-4040-ADC6-47B96D083453}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
