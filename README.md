@@ -1,4 +1,4 @@
-# <center>mfc_detect_face</center>
+# <center>OpenCV_detect_face</center>
 
 ## Compile Environment
 I build this project on the **Windows 7 system** using the **Microsoft Visual Studio 2010 compiler**

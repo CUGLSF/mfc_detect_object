@@ -1,4 +1,4 @@
-﻿生成启动时间为 2015-12-25 18:40:09。
+﻿生成启动时间为 2015-12-25 19:47:40。
      1>项目“D:\git_project\mfc_detect_object\mfc_detect_object\mfc_detect_object.vcxproj”在节点 2 上(clean 个目标)。
      1>_PrepareForClean:
          正在删除文件“Debug\face_detect_object.lastbuildstate”。
@@ -6,4 +6,4 @@
 
 生成成功。
 
-已用时间 00:00:00.64
+已用时间 00:00:00.04
